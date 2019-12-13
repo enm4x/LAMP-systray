@@ -33,7 +33,7 @@ wget https://github.com/maxdvlg/LAMP-systray/archive/master.zip
 ### copy the exec folder and rename it 
 
 ```shell
-cp LAMP-systray /your/path/APPNAME
+cp LAMP-systray/bin /your/path/APPNAME
 ```
 
 ### create the icon for the launcher
