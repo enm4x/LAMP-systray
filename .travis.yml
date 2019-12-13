@@ -3,7 +3,9 @@ before_install:
 
 language: go
 
+notifications:
+  email: false
+
 go:
 - 1.x
 - "1.13"
-- master
