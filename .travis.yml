@@ -1,3 +1,6 @@
+before_install:
+  - sudo apt-get -y install libgtk-3-dev libappindicator3-dev libwebkit2gtk-4.0-dev
+
 language: go
 
 go:
